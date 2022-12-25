@@ -53,8 +53,7 @@ No Templates for fill in the blank code, but here is his copyright regardless:
 - @ All Rights Reserved
 
 I give full credit to anything predefined to Professor Liaskos, this code rightfully belongs to him,
-I only completed the project as an assignment for this Information Technology Course, the course however
-was taught by ***Professor Nahid Alimohammadi*** and would like to
-add this assignment to my Coding Experiences
+I completed the project as an assignment for this Information Technology Course, the course however
+was taught by ***Professor Nahid Alimohammadi***
 
 - @author Soren Caraan
