@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/Ex1 jar files/OldTempSensorDevice.jar",
+        "src/Ex1 jar files/OldTempSensorDriver.jar",
+        "src/Ex2 jar files/NewTempSensorDevice.jar",
+        "src/Ex2 jar files/NewTempSensorDriver.jar",
+        "src/Standards.jar"
+    ]
+}
