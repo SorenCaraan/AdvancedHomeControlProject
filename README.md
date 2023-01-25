@@ -7,6 +7,10 @@ This project now includes changed adapters and a customizable furnace.
 This Project was done during ***September to December 2022*** and was only pushed to GitHub
 when the project was finished.
 
+## Project Demonstration:
+
+[ITEC3030 Assignment 2 Video](https://youtu.be/CK4ALZQJTcQ)
+
 ## Project Description:
 
 ### Disclaimer: This belongs to Professor Liaskos
