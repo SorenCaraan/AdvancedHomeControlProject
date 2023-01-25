@@ -17,7 +17,7 @@ when the project was finished.
 
 In this assignment, you will continue working on the Smart Home Controller challenge playing the
 role of "Smart Builders", i.e., a bunch of developers who develop custom smart homes by putting
-together various components. Here is what now they want
+together various components. Here is what they want now
 
 - ***Adapting an Old Sensor.*** You will need to use the ***adapter
 pattern*** so that you bring it up to SSDCS standards.
