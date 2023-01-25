@@ -9,7 +9,7 @@ when the project was finished.
 
 ## Project Demonstration:
 
-[ITEC3030 Assignment 2 Video](https://youtu.be/CK4ALZQJTcQ)
+[Advanced Home Control Project [YouTube]](https://youtu.be/VdEQ_gTl7pI)
 
 ## Project Description:
 
